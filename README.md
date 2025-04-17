@@ -45,3 +45,6 @@ This is a demonstration implementation and uses small numbers for readability. I
 ## References
 
 This implementation is based on the Schnorr Protocol, a fundamental zero-knowledge proof system that demonstrates the principles outlined in various academic papers on zero-knowledge proofs. 
+
+* Original Paper [link](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf)
+* Zero Knowledge used for Nuclear Warhead verification [link](https://www.nature.com/articles/ncomms12890)
