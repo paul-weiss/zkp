@@ -1,0 +1,11 @@
+[package]
+name = "zkp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+num-bigint = { version = "0.4", features = ["rand"] }
+sha2 = "0.10.8"
+num-primes = "0.3.0"
+num-traits = "0.2"
